@@ -1,0 +1,2 @@
+Hello! This is created using Node.js fs module.
+Adding a new line using appendFile.
